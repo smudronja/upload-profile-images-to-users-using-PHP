@@ -1,6 +1,6 @@
 # Upload files and images using PHP
 
-How to upload profile images to users using PHP - Learn PHP backend programming
+Upload profile images to users using PHP - Learn PHP backend programming. In a relationship with exercise Upload-files
 
 ### Prerequisites
 
