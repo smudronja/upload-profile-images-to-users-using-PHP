@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #e3e3e3;
+}
+
+p {
+	font-family: arial;
+	font-size: 16px;
+	color: #272727;
+	padding: 10px 10px 0px;
+}
+
+p span {
+	font-size: 28px;
+	color: #272727;
+}
+
+.p-title {
+	padding-top: 20px;
+}
+
+.user-container {
+	width: 400px;
+	padding: 10px;
+	background-color: #fff;
+	margin: 10px;
+	overflow: hidden;
+}
+
+.user-container img {
+	float: left;
+	width: 60px;
+}
+
+.user-container div {
+	float: left;
+}
+
+form {
+	padding: 0px;
+	margin: 4px;
+}
+
+form button {
+	padding: 4px;
+}
